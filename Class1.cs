@@ -13,5 +13,11 @@ namespace githubtest2
 {
     public class Class1
     {
+        #region Constants
+
+        const float playerSpeed = 10.0f;
+
+        const float agentSpeed = 10.0f;
+
     }
 }
